@@ -1,0 +1,3 @@
+Я администратор компьютера и единственный пользователь git:
+git config --global user.name "allunchik"
+git config --global user.email "all.katkova@yandex.ru"

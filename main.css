@@ -56,11 +56,18 @@ button {
     }
     }
 .about {
+    position: relative;
     display: flex;
     align-items: center;
     justify-content: space-around;
     padding-bottom: 115px;
     padding-top: 115px;
+}
+.orb-canvas {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    right: 0;
 }
 .about h1 {
     font-size: 70px;
